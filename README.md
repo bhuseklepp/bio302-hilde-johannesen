@@ -1,6 +1,3 @@
 # bio302-hilde-johannesen
 Intro class to Git 
-#HeyHeyHey
-
-
-Some questions
+#What kind of scientist are you?
